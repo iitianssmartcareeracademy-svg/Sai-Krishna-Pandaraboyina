@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Smart Guru NEET & IIT",
+  "description": "A comprehensive e-learning platform for IIT-JEE, NEET, and CUCET aspirants featuring timetable management, study materials, live AI tutoring, online tests, and fee tracking.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
